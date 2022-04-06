@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            Console.WriteLine("Hello, CSD228");
+            Console.WriteLine("Hello, World");
         }    
     }
 }
